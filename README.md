@@ -1,4 +1,6 @@
-# Explorations - I present two implementations, one in R and one in Python showing how to create an Empirical CDF from a data sample and then calculate its inverse in a simple way without the heavy use of libraries. 
+# Explorations - Create an Empirical CDF from a data sample and then calculate its inverse in a simple way 
+
+Two notebooks presenting the Empirical CDF and showing how to calculate its inverse in R and Python
 
 The code is presented together with Latex definitions and descriptions and may be used to create single-variable CDFs from empirical data collected without the need to assume a distribution from known families. 
 
