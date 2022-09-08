@@ -8,4 +8,4 @@ Inverse transform sampling is used to calculate an inverse empirical cdf which i
 
 Simple comparisons and visualizations are used to give a sense of the accuracy and applicability of the proposed approach using an Exponential Distributed Sample as a basis.
 
-Finally the Newsvendor model is presented as one direct case where we can apply the proposed theory into practice.
+Finally the Newsvendor model is presented as a direct case where we can apply the proposed theory into practice.
