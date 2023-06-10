@@ -13,6 +13,7 @@ Finally the Newsvendor model is presented as a direct case where we can apply th
 2. Multi-period Inventory: Use Calculus and Dynamic programming to find the optimal order quantity
 
 
-3. Line Search example: Using Convex Optimization theory 
+3. Line Search example: Using Convex Optimization theory. 
+Here I visualize and compare simple gradient descent, backtracking line search application to gradient descent and conditional gradient descent.
 
-4. Simple Linear Programming example
+4. Simple Linear Programming example: using a basic linear programming example I demonstrate visualization of the problem as well as some concepts related to duality. 
