@@ -11,3 +11,8 @@ Simple comparisons and visualizations are used to give a sense of the accuracy a
 Finally the Newsvendor model is presented as a direct case where we can apply the proposed theory into practice.
 
 2. Multi-period Inventory: Use Calculus and Dynamic programming to find the optimal order quantity
+
+
+3. Line Search example: Using Convex Optimization theory 
+
+4. Simple Linear Programming example
