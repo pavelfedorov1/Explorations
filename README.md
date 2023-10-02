@@ -16,4 +16,6 @@ Finally the Newsvendor model is presented as a direct case where we can apply th
 3. Line Search example: Using Convex Optimization theory. 
 Here I visualize and compare simple gradient descent, backtracking line search application to gradient descent and conditional gradient descent.
 
-4. Simple Linear Programming example: using a basic linear programming example I demonstrate visualization of the problem as well as some concepts related to duality. 
+4. Simple Linear Programming example: using a basic linear programming example I demonstrate visualization of the problem as well as some concepts related to duality.
+
+5. Linear Mean-Reverting Strategy Backtest that utilizes PCA and Bollinger Bands to trade mean reversion on three co-integrated ETFs.
